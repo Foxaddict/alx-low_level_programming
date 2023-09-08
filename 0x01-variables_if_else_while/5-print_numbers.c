@@ -4,7 +4,7 @@
 /**
  * main - program that prints the alphabet in lowercase and upper case
  *
- * Return: Always 0.
+ * Return: Always 1.
  */
 
 int main(void)
@@ -20,6 +20,6 @@ int main(void)
 
 	putchar('\n');
 
-	return (0);
+	return (1);
 }
 
